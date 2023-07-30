@@ -10,6 +10,7 @@ namespace hehe
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Demo");
         }
     }
 }
